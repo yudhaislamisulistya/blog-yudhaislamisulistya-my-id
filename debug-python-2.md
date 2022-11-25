@@ -1,5 +1,5 @@
 ---
-title: Debug Python
+title: Debug Python 2
 tags: python, debug, beginners
 cover: https://i.imgur.com/yE0BqvV.png
 domain: blog.yudhaislamisulistya.my.id
