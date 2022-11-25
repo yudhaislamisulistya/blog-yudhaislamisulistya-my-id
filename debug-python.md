@@ -6,4 +6,8 @@ domain: blog.yudhaislamisulistya.my.id
 ignorePost: false
 ---
 
-Belajar Menggunakan Hashnode
+# 1. Belajar Itu Penting
+## 1.1 Yah Belajar Itu Sangat Penting
+
+
+# 2. Dunia
