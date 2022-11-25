@@ -1,6 +1,6 @@
 ---
 title: Debug Python
-tags: python, debug, essentials
+tags: python, debug, beginners
 cover: https://i.imgur.com/yE0BqvV.png
 domain: blog.yudhaislamisulistya.my.id
 ignorePost: false
