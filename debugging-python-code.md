@@ -19,36 +19,37 @@ z = [x for x in range(0, y+2)]
 print(z)
 ```
 
-##### 1. Buka Aplikasi Visual Studio Code
+#### 1. Buka Aplikasi Visual Studio Code
 Hal pertama yang harus dilakukan ialah dengan menjalankan IDE VSCode lalu pindahkan kode program diatas kedalam IDE ini.
 ![001](https://i.imgur.com/dhexrwQ.png)
 
-##### 2. Pilih Menu Debug Pada Sidebar
+#### 2. Pilih Menu Debug Pada Sidebar
 Pada bagian sisi kiri (sidebar) VSCode terdapat menu **Run and Debug**. Lalu pilih menu tersebut seperti tampilan berikut ini.
 ![002](https://i.imgur.com/UO4dWV8.png)
 
-##### 3. Tentukan Breakpoint
+#### 3. Tentukan Breakpoint
 **Breakpoint** secara sederhana merupakan lokasi dimana baris kode akan di hentikan secara sejenak melalui proses **debugging**. Silahkan pilih **breakpoint** pada baris kode pertama dengan tujuan untuk menjalankan baris demi baris mulai (baris 1-5)
 ![003](https://i.imgur.com/1ULj3Ut.png)
 
-##### 4. Jalankan Debug
+#### 4. Jalankan Debug
 Pilih **Run and Debug Python File** untuk menjalankan proses *debugging* pada file ini. Setelah itu, silahkan perhatikan beberapa bagian sisi kiri
 1. (*Container variables*) yang merupakan output dari setiap eksekusi baris per baris kode program
 2. (*Watch*) yang berfungsi menampilkan sebuah value berdasarkan variabel
 3. (*Breakpoint*) yang berfungsi sebagai titik atau lokasi dimana baris kode akan dihentikan secara sejenak
+
 ![004](https://i.imgur.com/DPMxKOh.png)
 
-##### 5. Step Into Debugging
+#### 5. Step Into Debugging
 Pada bagian sisi kanan atas terdapat terdapat **step into** yang berfungsi untuk melakukan *debugging* pada baris kode selanjutnya. Setelah proses ini akan menghasilkan sebuah *variabel* dengan *value* dari baris kode yang telah di *debugging*
 ![005](https://i.imgur.com/xwmvpCH.png)
 ![006](https://i.imgur.com/OkVveEh.png)
 Dapat kita lihat bahwa bagian *container variabel* telah memiliki variabel **x** dengan value **1** dan variabel **y** dengan value **3** serta kita juga dapat mengarahkan cursor pada variabel untuk melihat value pada variabel tersebut. Hal inilah yang dapat membuat lebih efisien ketimbang menggunakan pendekatan perintah **Print()**
 
-##### 6. Hasil Debugging
+#### 6. Hasil Debugging
 Kode program demonstrasi sederhana ini yang terdiri dari 5 baris menghasilkan sebuah debugging sederhana pada **container variabel** disisi kiri.
 ![007](https://i.imgur.com/0oP2dl0.png)
 
-##### 7. Bonus
+#### 7. Bonus
 ![Full](https://i.imgur.com/YDnSCgH.gif)
 
 # Kesimpulan
