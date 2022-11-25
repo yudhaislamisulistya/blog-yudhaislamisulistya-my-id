@@ -1,0 +1,1 @@
+Belajar lagi dan lagi serta ok bagian ini sudah saya perbaiki
