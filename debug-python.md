@@ -14,3 +14,5 @@ lorem
 
 # 2. Dunia
 Pengaturan header bisa membantu kita dalam menyusun dan melakukan navigasi di dalam notebook colab kita, terutama jika notebook yang kita tulis tersusun atas beberapa bagian. Untuk menandakan kata / kalimat sebagai header di dalam dokumen maka kita cukup menambahkan tanda # di depan kata / kalimat yang diinginkan.
+
+# 3. Alam
