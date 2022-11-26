@@ -2,7 +2,8 @@
 title: Debugging Python Code
 tags: python, debug, beginners, debugging, vscode
 cover: https://i.imgur.com/yE0BqvV.png
-domain: blog.yudhaislamisulistya.my.id
+# domain: blog.yudhaislamisulistya.my.id
+domain: learn.himpasikom.id
 ignorePost: false
 ---
 
