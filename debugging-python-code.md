@@ -2,12 +2,11 @@
 title: Debugging Python Code
 tags: python, debug, beginners, debugging, vscode
 cover: https://i.imgur.com/yE0BqvV.png
-# domain: blog.yudhaislamisulistya.my.id
-domain: learn.himpasikom.id
+domain: blog.yudhaislamisulistya.my.id
 ignorePost: false
 ---
 
-*Debugging* merupakan istilah yang sering digunakan untuk mengidentifikasi atau melacak sebuah *bug*, error atau kesalahan pada baris kode. *Bug* inilah yang bisa saja sebuah program tidak dapat berjalan sesuai dengan perintah yang kita inginkan. Salah satu hal yang penting ketika kita melakukan *debug* adalah menjalankan baris demi baris kode sambil memeriksa setiap variabel menggunakan **breakpoint**. Hal ini lebih efisien ketimbang menggunakan pendekatan **Print()**
+*Debugging* merupakan istilah ~~yang~~ sering digunakan untuk mengidentifikasi atau melacak sebuah *bug*, error atau kesalahan pada baris kode. *Bug* inilah yang bisa saja sebuah program tidak dapat berjalan sesuai dengan perintah yang kita inginkan. Salah satu hal yang penting ketika kita melakukan *debug* adalah menjalankan baris demi baris kode sambil memeriksa setiap variabel menggunakan **breakpoint**. Hal ini lebih efisien ketimbang menggunakan pendekatan **Print()**
 
 # Debugging di Visual Studio Code
 
