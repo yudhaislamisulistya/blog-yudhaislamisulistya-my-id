@@ -1,5 +1,5 @@
 ---
-title: Test Debugging Python Code
+title: Test Debugging Python Code 2
 tags: python, debug, beginners, debugging, vscode
 cover: https://i.imgur.com/yE0BqvV.png
 domain: blog.yudhaislamisulistya.my.id
